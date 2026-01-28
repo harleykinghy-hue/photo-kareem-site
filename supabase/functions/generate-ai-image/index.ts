@@ -56,3 +56,5 @@ serve(async (req) => {
     });
   }
 })
+
+// Ready to launch
